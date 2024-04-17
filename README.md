@@ -11,13 +11,13 @@ An application for planning workout routines with the ability to remix them with
 
 # Wireframes
 
-## Login Page
+### Login Page
 ![Login Page](https://github.com/localhusks/Shape-Shift-Studio/blob/main/WireFrames/Login/Login.png)
 
-## Sign-Up Page
+### Sign-Up Page
 ![SignUp Page](https://github.com/localhusks/Shape-Shift-Studio/blob/main/WireFrames/SignUp/SignUp.png)
 
-## Home Page
+### Home Page
 ![Home Page](https://github.com/localhusks/Shape-Shift-Studio/blob/main/WireFrames/HomePage/HomePage.png)
 
 # Color Pallet
